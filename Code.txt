@@ -39,5 +39,5 @@ class TestClass {
                 hs.add(L);
             }
         }
-        System.out.println(Collections.max(hs));
+        System.out.println(Collections.max(hs)); // this will give maximum value of given array!!
 }   }
