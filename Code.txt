@@ -21,7 +21,7 @@ class TestClass {
         int n = sc.nextInt();
         long array[] = new long[n];
         HashSet <Long> hs = new HashSet<Long>(); 
-        long L = 0;
+        long Lin = 0;
         int result =0;
 
         if(n==0)                          // Case 1
