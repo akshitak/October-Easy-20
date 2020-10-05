@@ -19,7 +19,7 @@ class TestClass {
   Scanner sc = new Scanner(System.in);
         //long n = sc.nextLong();
         int n = sc.nextInt();
-        int z=0;
+        int znew=0;
         long array[] = new long[n];
         HashSet <Long> hs = new HashSet<Long>(); 
         long L = 0;
